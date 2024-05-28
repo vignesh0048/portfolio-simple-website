@@ -18,6 +18,6 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 _**contact page**-
 
 ## How to Use
- Visit the [live website link](insert-link-here) to explore my portfolio.
+ Visit the https://vignesh0048.github.io/portfolio-simple-website/ to explore my portfolio.
 
 Thak you for visiting for my website portfolio!
